@@ -15,3 +15,5 @@ atom에서 수정 - 팡팡asdf
 conflict된 영역에 코드 작성
 
 루요디 commit만 확인됨. 뭐지?
+
+되나요? -루 
