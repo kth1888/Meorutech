@@ -5,5 +5,11 @@ Free space for meoru devlopers
 안됐나여????-초양
 수정? 가능
 방명록 작성 - 루요디 -
+<<<<<<< HEAD
 atom에서 수정 - 팡팡asdf
 아톰에서 수정 어캐하더라_검사
+=======
+atom에서 수정 - 팡팡
+atom 수정-초양
+atommmm
+>>>>>>> 8b0e4231714aff6b12d74534fd92f651ca33d0f8
